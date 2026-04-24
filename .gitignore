@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
+dist/
+browser_profile/
+agent_logs/
+browser-use-mcp-server/
+Task.md
+Agent_request_examples.md
